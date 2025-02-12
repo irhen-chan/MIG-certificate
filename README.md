@@ -1,3 +1,2 @@
 # MIG-certificate
-Monash Innovation Guarantee Award Certificate
-Award for Excellence in Human-Centered Design
+Monash Innovation Guarantee Award for Excellence in Human-Centered Design
